@@ -8,7 +8,7 @@
 # 💫 About Me:
 🌱 I’m currently learning React.js and Android Development<br>
 💬 Ask me about JAVA, DBMS, MySQL, MongoDB, Node.js, Express, Full Stack Development.<br>
-📫 How to reach me atul0402mishra@gmail.com<br>
+📫 Reach out to me at atul0402mishra@gmail.com<br>
 📄 <a href="https://drive.google.com/file/d/1_CvjOrUE6DD85ZrCZbSsUEranL35MmRE/view?usp=share_link" target="blank">Know about my experiences</a><br>
 ⚡ Fun fact I'm better than my resume.
 <br><br>
@@ -42,7 +42,7 @@
 
 <!-- ![](https://api.visitorbadge.io/api/VisitorHit?user=kabirrrr19&repo=github-visitors-badge&countColor=%237B1E7A) -->
 
-[![Atul's Github activity graph](https://activity-graph.herokuapp.com/graph?username=kabirrrr19&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Atul's Github activity graph](https://activity-graph.herokuapp.com/graph?username=kabirrrr19&theme=react-dark)
 
 
 <!-- ### ✍️ Random Dev Quote
