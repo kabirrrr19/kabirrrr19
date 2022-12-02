@@ -40,9 +40,11 @@
 ![](https://github-profile-trophy.vercel.app/?username=kabirrrr19&theme=darkhub&no-frame=false&no-bg=true&margin-w=15&margin-h=15)
 <br><br>
 
+
 <!-- ![](https://api.visitorbadge.io/api/VisitorHit?user=kabirrrr19&repo=github-visitors-badge&countColor=%237B1E7A) -->
 
-[![Atul's Github activity graph](https://activity-graph.herokuapp.com/graph?username=kabirrrr19&theme=react-dark)
+
+<!-- [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ashutosh00710&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
 
 <!-- ### ✍️ Random Dev Quote
