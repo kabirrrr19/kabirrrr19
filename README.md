@@ -45,12 +45,12 @@
 [![Atul's Github activity graph](https://activity-graph.herokuapp.com/graph?username=kabirrrr19&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-### ✍️ Random Dev Quote
+<!-- ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 <br><br>
 
 ### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+<img src="https://random-memer.herokuapp.com/" width="512px"/> -->
 
 ---
 <!-- [![](https://visitcount.itsvg.in/api?id=kabirrrr19&icon=0&color=6)](https://visitcount.itsvg.in) -->
